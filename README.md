@@ -1,10 +1,5 @@
 # Sorting (COMP 2000 - Data Structures)
 
-[Virus Total Scan PASSED: 0/60](https://www.virustotal.com/#/file/7856bb20d6fb29ed6a260a86130a11a2fd36ad28acf42b52e50e87aade104f7a/detection)
-
-SHA256: 7856bb20d6fb29ed6a260a86130a11a2fd36ad28acf42b52e50e87aade104f7a
-executable name: ./sort
-
 What it can do:
 - Runs through most of the ways to sort a slice
 
